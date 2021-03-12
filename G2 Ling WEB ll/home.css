@@ -1,0 +1,19 @@
+body{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.img{
+display: flex;
+justify-content:space-around; /* deixar separado do mesmo tamanho */
+align-content: center;
+width: 1300px!important; /*-- deixar do mesmo tamanho */
+height: 200px!important;
+
+}
